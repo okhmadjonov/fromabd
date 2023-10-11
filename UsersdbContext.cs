@@ -53,3 +53,6 @@ public class UsersDbContext : IdentityDbContext<ApplicationUser>
     }
 
 }
+
+
+// This is demo project for practice
